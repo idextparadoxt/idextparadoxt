@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Dextelektro 👋
+
+Hardware & Firmware Engineer from Indonesia, focused on ESP32-based embedded systems — low-level drivers, RF (RMT/NRF24/CC1101), BLE (NimBLE), and custom firmware porting.
+
+- 🔧 Currently building: custom multi-radio firmware for ESP32-C5/S3
+- 🛠️ Stack: ESP-IDF, FreeRTOS, C/C++, Flutter (companion apps)
+- 📺 TikTok: [@dextelektro](https://tiktok.com/@dextelektro)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dextelektro&show_icons=true&theme=radical)
 
 <!--
 **idextparadoxt/idextparadoxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
